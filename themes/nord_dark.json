@@ -1,0 +1,97 @@
+{
+  "Name": "Nord Dark",
+  "EditorImage": "",
+  "Categories": {
+    "Surfaces": {
+      "WindowBackground": "#1B1D23",
+      "PageBackground": "#1B1D23",
+      "ContentBackground": "#1B1D23",
+      "InputBackground": "#242933",
+      "TitleBarBackground": "#00000000",
+      "CardBackground": "#2A2F3A",
+      "DialogBackground": "#2A2F3A",
+      "EditorBackground": "#1B1D23",
+      "EditorLineHighlightBackground": "#303644",
+      "ConsoleBackground": "#16181D",
+      "ScriptsFolderBackground": "#2A2F3A",
+      "ScriptsFolderSeparator": "#1B1D23",
+      "SettingsCategoryBackground": "#353C4A",
+      "SearchBackground": "#2A2F3A",
+      "TabBackground": "#1B1D23",
+      "TabActiveBackground": "#3B4252",
+      "TabHoverBackground": "#2E3440",
+      "TabInactiveBackground": "#1B1D23",
+      "TabShadow": "#15171C",
+      "CheckboxBackground": "#353C4A",
+      "ProgressBarBackground": "#353C4A",
+      "LoginOverlay": "#701B1D23",
+      "LoadingOverlay": "#801B1D23"
+    },
+
+    "Text": {
+      "TitleText": "#ECEFF4",
+      "PrimaryText": "#FFFFFF",
+      "SecondaryText": "#B8C0CC",
+      "TertiaryText": "#D8DEE9",
+      "PlaceholderText": "#5A6578",
+      "IconTextForeground": "#81A1C1",
+      "AuthorText": "#6B7483",
+      "SearchText": "#ECEFF4",
+      "ScriptFileText": "#ECEFF4",
+      "TabActiveText": "#FFFFFF",
+      "TabInactiveText": "#6B7483",
+      "IconDefault": "#72809A",
+      "IconHover": "#88C0D0",
+      "IconSelected": "#8FBCBB",
+      "IconSelectedBackground": "#208FBCBB",
+      "SearchIcon": "#72809A",
+      "ScriptFileIcon": "#88C0D0",
+      "AddTabButton": "#6B7483",
+      "CheckMarkStroke": "#1B1D23",
+      "ComboBoxText": "#ECEFF4"
+    },
+
+    "Controls": {
+      "ControlButtonForeground": "#ECEFF4",
+      "ControlButtonBackground": "#1B1D23",
+      "ControlButtonHoverOverlay": "#2088C0D0",
+      "ButtonBackground": "#2A2F3A",
+      "ButtonBackgroundHover": "#353C4A",
+      "ButtonBackgroundHoverEnd": "#3B4252",
+      "ButtonForeground": "#D8DEE9",
+      "ButtonForegroundHover": "#FFFFFF",
+      "ButtonDisabledBackground": "#1B1D23",
+      "ButtonDisabledBackgroundEnd": "#252933",
+      "ButtonDisabledText": "#5A6578",
+      "ButtonStyle1Background": "#353C4A",
+      "ButtonStyle1BackgroundHover": "#3B4252",
+      "ButtonStyle1BackgroundPressed": "#2A2F3A",
+      "ButtonStyle1DisabledBackground": "#2A2F3A",
+      "GeneralButtonBackground": "#434C5E",
+      "GeneralButtonForeground": "#ECEFF4",
+      "RoundedButtonBackground": "#2A2F3A",
+      "RoundedButtonHover": "#5E81AC",
+      "ScrollbarTrack": "#2A2F3A",
+      "ScrollbarThumb": "#434C5E"
+    },
+
+    "Borders": {
+      "ButtonBorder": "#434C5E",
+      "ButtonStyle1Border": "#434C5E",
+      "CardBorder": "#434C5E",
+      "DialogBorder": "#434C5E",
+      "CheckboxBorder": "#434C5E",
+      "RoundedButtonBorder": "#434C5E",
+      "SeparatorColor": "#353C4A",
+      "TabBarBorder": "#2A2F3A",
+      "EditorLineHighlightBorder": "#00000000"
+    },
+
+    "Accents": {
+      "AccentBlue": "#81A1C1",
+      "AccentGreen": "#A3BE8C",
+      "NeutralGray": "#D8DEE9",
+      "CheckboxChecked": "#88C0D0"
+    }
+  }
+}
