@@ -1,6 +1,6 @@
 # potassium-themes
 You don't need to download any images in the background folder
-<img width="2560" height="1440" alt="Potassium_RnMd2CZ0lq" src="https://github.com/user-attachments/assets/b8fccdc5-d4bf-4b36-ab2b-5ac536cf9800" />
+<img width="2560" height="1440" alt="sakuradusk" src="https://github.com/user-attachments/assets/020bc22a-319a-447f-a174-0c5004b6a335" />
 <img width="2560" height="1440" alt="synthwave84" src="https://github.com/user-attachments/assets/2e7759fa-1dd1-49b7-916d-91c12cf97037" />
 <img width="2560" height="1440" alt="rosepinemoon" src="https://github.com/user-attachments/assets/be7b9cf5-d5c7-4224-bf7d-195c4345373b" />
 <img width="2560" height="1440" alt="Potassium_TsOjd2yHCe" src="https://github.com/user-attachments/assets/91b98164-71c9-4d82-9c5f-2a5aca99e0ea" />
