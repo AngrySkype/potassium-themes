@@ -73,7 +73,7 @@
     },
     "Controls": {
       "ControlButtonForeground": "#FF8AC0",
-      "ControlButtonBackground": "#1A1B2E",
+      "ControlButtonBackground": "#0F0F1A",
       "ControlButtonHoverOverlay": "#20FF8AC0",
       "ButtonBackground": "#1A1B2E",
       "ButtonBackgroundHover": "#23243A",
