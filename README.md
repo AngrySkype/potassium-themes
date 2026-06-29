@@ -1,5 +1,5 @@
 # potassium-themes
-You don't need to download any images from the background folder
+You don't need to download any images from the backgrounds folder
 
 Dark themes             |  Light themes
 :-------------------------:|:-------------------------:
@@ -12,7 +12,7 @@ Dark themes             |  Light themes
 <img width="2560" height="1440" alt="onedarkpro" src="https://github.com/user-attachments/assets/581e95f4-b483-438b-affa-bb342d9ff469" /> | <img width="2560" height="1440" alt="Potassium_vrxstf4ACd" src="https://github.com/user-attachments/assets/03e1bfa9-59c6-4537-b417-0fc937dca9c4" />
 <img width="2560" height="1440" alt="oled" src="https://github.com/user-attachments/assets/445924fb-47c4-49a6-94a6-9a4b98129890" /> | <img width="2560" height="1440" alt="Potassium_uuDqgQkPoY" src="https://github.com/user-attachments/assets/834c8a73-c0bc-47c2-85f1-94137f95cc55" />
 <img width="2560" height="1440" alt="obsidianvoid" src="https://github.com/user-attachments/assets/af915de9-9732-4145-94a1-8cf20f048253" /> | <img width="2560" height="1440" alt="Potassium_kl1ccMP0QR" src="https://github.com/user-attachments/assets/c8a5b402-77c1-4055-897e-bd4cc40d9581" />
-<img width="2560" height="1440" alt="kanagawadragon" src="https://github.com/user-attachments/assets/f9a62d78-651e-48ce-8994-1949f1b943b8" /> | <img width="2560" height="1440" alt="Potassium_fTwTGotfgK" src="https://github.com/user-attachments/assets/6ba704c7-545f-47d2-9179-2af7b793433a" />
+<img width="2560" height="1440" alt="kanagawadragon" src="https://github.com/user-attachments/assets/f9a62d78-651e-48ce-8994-1949f1b943b8" /> |<img width="2560" height="1400" alt="Potassium_o2zhUNsvIo" src="https://github.com/user-attachments/assets/81d697c1-9610-4e68-b700-deb2fe8328dc" />
 <img width="2560" height="1440" alt="bloodeclipse" src="https://github.com/user-attachments/assets/4f9e8761-dc1e-41a7-bb77-c7bce97a0c38" /> | <img width="2560" height="1440" alt="Potassium_68mUOK9zqo" src="https://github.com/user-attachments/assets/9dead6f3-23b0-4006-94c4-56c5cefb4a1e" />
 <img width="2560" height="1440" alt="ayumirage" src="https://github.com/user-attachments/assets/6675f57d-6c39-4279-b468-8d13c65ee850" /> | <img width="2560" height="1440" alt="Potassium_54m77GEtWk" src="https://github.com/user-attachments/assets/d99a433d-ea3a-4691-8700-80f3d1de485c" />
 <img width="2560" height="1440" alt="articneon" src="https://github.com/user-attachments/assets/562f2ddc-b3b6-45b6-99bc-6f487ef085d8" /> | <img width="2560" height="1440" alt="Potassium_38NmBkXl1x" src="https://github.com/user-attachments/assets/72faefe2-81bc-4b98-be34-184d2b697b7e" />
